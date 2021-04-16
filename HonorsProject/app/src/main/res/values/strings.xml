@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HonorsProject</string>
+    <string name="no_data_please_refresh">No Data, Please Refresh</string>
+    <string name="location1">Location1</string>
+</resources>

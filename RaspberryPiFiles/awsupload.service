@@ -1,0 +1,10 @@
+[Unit]
+Description=AWSUpload
+
+[Service]
+User=pi
+Type=idle
+ExecStart=python /home/pi/script.py
+
+[Install]
+WantedBy=multi-user.target

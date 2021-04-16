@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-honorsproject-dev-164946-authRole",
+      "UnauthRoleArn": "arn:aws:iam::379788807063:role/amplify-honorsproject-dev-164946-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::379788807063:role/amplify-honorsproject-dev-164946-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-honorsproject-dev-164946-deployment",
+      "UnauthRoleName": "amplify-honorsproject-dev-164946-unauthRole",
+      "StackName": "amplify-honorsproject-dev-164946",
+      "StackId": "arn:aws:cloudformation:eu-west-2:379788807063:stack/amplify-honorsproject-dev-164946/54031bc0-9b9e-11eb-a335-0285f8857596",
+      "AmplifyAppId": "dqfzx8nb293v4"
+    }
+  }
+}
